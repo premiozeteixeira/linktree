@@ -18,8 +18,22 @@ body {
     align-items: center;
 }
 
+.fotos {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
 img {
-    width: 180px;
+    width: 170px;
+}
+
+.silhueta {
+    background: linear-gradient(white, white) padding-box, linear-gradient(to right, #C58F35, #343456) border-box;
+    border: 3px solid transparent;
+    width: 115px;
 }
 
 nav {
