@@ -44,7 +44,7 @@ nav {
 /*Sessão 1*/
 
 .container {
-    margin: 75px 200px 0px 300px;
+    margin: 75px 25px 0px 100px;
     display: flex;
     flex-direction: row;
     background-color: transparent;
@@ -59,7 +59,7 @@ nav {
 
 .container .titulo {
     color: #353556;
-    font-size: 24px;
+    font-size: 26px;
     font-weight: 700;
     text-align: left;
     margin-bottom: 12px;
