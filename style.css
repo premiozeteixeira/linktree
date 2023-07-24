@@ -28,12 +28,15 @@ body {
 
 img {
     width: 170px;
+    object-fit: cover;
 }
 
 .silhueta {
     background: linear-gradient(white, white) padding-box, linear-gradient(to right, #C58F35, #343456) border-box;
     border: 3px solid transparent;
     width: 115px;
+    height: 115px;
+    object-fit: cover;
 }
 
 nav {
